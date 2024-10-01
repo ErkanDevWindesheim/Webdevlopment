@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Webpage Layout</title>
     <link rel="stylesheet" href="views/css/myStyle.css">
 
 </head>
@@ -33,9 +33,40 @@
             </ul>
         </aside>
         <section id="myContent" class="content">
-            <h1>Main Content</h1>
-            <p>This is where the Main content goes.</p>
+            <h1>Gallery Content</h1>
+            <p>This is where the main content goes.</p>
 
+            <div class="gallery">
+                <a>
+                    <img alt="crypto"
+                        src="https://source.unsplash.com/random/1920x1080/?animal,nature,city,technology,landscape">
+                </a>
+                <div class="desc">Add a description of the image here</div>
+            </div>
+
+            <div class="gallery">
+                <a>
+                    <img alt="crypto"
+                        src="https://source.unsplash.com/random/1920x1080/?animal,nature,city,technology,landscape">
+                </a>
+                <div class="desc">Add a description of the image here</div>
+            </div>
+
+            <div class="gallery">
+                <a>
+                    <img alt="crypto"
+                        src="https://source.unsplash.com/random/1920x1080/?animal,nature,city,technology,landscape">
+                </a>
+                <div class="desc">Add a description of the image here</div>
+            </div>
+
+            <div class="gallery">
+                <a>
+                    <img alt="crypto"
+                        src="https://source.unsplash.com/random/1920x1080/?animal,nature,city,technology,landscape">
+                </a>
+                <div class="desc">Add a description of the image here</div>
+            </div>
         </section>
         <aside class="sidebar-r">
             <h2>Events List</h2>
