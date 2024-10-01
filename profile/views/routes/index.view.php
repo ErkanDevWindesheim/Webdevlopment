@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Webpage Layout</title>
-    <link rel="stylesheet" href="css/myStyle.css">
+    <link rel="stylesheet" href="views/css/myStyle.css">
 
 </head>
 <body>
@@ -11,9 +11,9 @@
 <header>
     <div class="icon">🌐</div>
     <div class="menu">
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
+        <a href="/">Home</a>
+        <a href="about">About</a>
+        <a href="contact">Contact</a>
     </div>
 </header>
 <!-- End Header -->
@@ -53,5 +53,5 @@
 <!-- END Footer -->
 
 </body>
-<script src="js/myScript.js"></script>
+<script src="views/js/myScript.js"></script>
 </html>

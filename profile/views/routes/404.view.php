@@ -29,8 +29,8 @@
         </ul>
     </aside>
     <section id="myContent" class="content">
-        <h1>About Content</h1>
-        <p>This is where the about content goes.</p>
+        <h1>Error 404: page not found</h1>
+        <p>This pagina doesn't exist. Contact the developers./p>
     </section>
     <aside class="sidebar-r">
         <h2>Events List</h2>
